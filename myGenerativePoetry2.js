@@ -15,7 +15,7 @@ let userInput = prompt("What is your name?", "")
 userInput += " "
 
 // this clears the HTML paragraph
-document.getElementById("para").innerHTML = "";
+document.getElementById("para").innerHTML = ""
 
 // this is a for loop, it will run the code in curly brackets 10 times
 for(let i = 0; i < 10; i++){
@@ -24,7 +24,7 @@ for(let i = 0; i < 10; i++){
     let poem = opening + userInput + randomStringFromArray(verbs) + randomStringFromArray(article) + randomStringFromArray(adjectives) + "<br>"
     
     // this keeps adding (+=) the line of the poem to the index.html of the site
-    document.getElementById("para").innerHTML += poem;
+    document.getElementById("para").innerHTML += poem
 }
 
 

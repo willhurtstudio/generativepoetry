@@ -22,7 +22,7 @@ console.log(opening + randomStringFromArray(article) + randomStringFromArray(ver
 // this creates a variable that contains the poem
 //let output = opening + randomStringFromArray(article) + randomStringFromArray(verbs) + randomStringFromArray(adjectives)
 // this pushes the poem back out to the HTML of the site
-//document.getElementById("para").innerHTML = output;
+//document.getElementById("para").innerHTML = output
 
 
 
