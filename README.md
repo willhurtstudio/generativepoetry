@@ -1,3 +1,3 @@
 # generativepoetry
 
-# this is a repo for generative poem stuff
+this is a repo for generative poem stuff
