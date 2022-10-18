@@ -2,11 +2,11 @@
 let opening = "Once upon a time "
 
 // these are arrays of strings
-let article = ["I ", "He ", "She ", "They ", "We "]
+let article = ["I ", "he ", "she ", "they ", "we "]
 
-let verbs = ["Ate ", "Talked ", "Walked ", "Forgot ", "Reminisced "]
+let verbs = ["ate ", "talked ", "walked ", "forgot ", "reminisced "]
 
-let adjectives = ["violently", "slowly", "directly", "softly"]
+let adjectives = ["tirelessly", "slowly", "directly", "softly"]
 
 
 // console.log displays content in the console
